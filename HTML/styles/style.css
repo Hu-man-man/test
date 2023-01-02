@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Permanent+Marker&family=Playfair+Display&display=swap');
+html {
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Playfair Display', serif;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+html {
+  background-color: #ECE201;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #00d9ff;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #ECE201;
+  text-shadow: 3px 3px 1px black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
